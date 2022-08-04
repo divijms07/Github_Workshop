@@ -7,3 +7,7 @@ void push()
 {
     //function
 }
+void exit()
+{
+    //exit
+}
