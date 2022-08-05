@@ -7,7 +7,11 @@ void push()
 {
     //function
 }
+void pop()
+{
+    //pop
+}
 void exit()
 {
-    //exit
+    //exit!
 }
