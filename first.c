@@ -13,4 +13,5 @@ void pop()
 }
 void exit()
 {
-    //e
+    //exit!
+}    
