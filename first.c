@@ -14,4 +14,8 @@ void pop()
 void exit()
 {
     //exit!
+}
+void log()
+{
+    //added pop 
 }    
