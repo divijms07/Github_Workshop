@@ -1,4 +1,5 @@
 # include<stdio.h>
+
 int main()
 {
     //code here 
@@ -10,4 +11,8 @@ void push()
 void exit()
 {
     //exit
+}
+void isEmpty()
+{
+	// empty func
 }
